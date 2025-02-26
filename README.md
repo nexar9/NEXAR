@@ -1,6 +1,6 @@
-#SMS Tool by Wiper
-#github: https://github.com/wiperdev
-#dc: Wiper#0565
+#SMS Tool by Nexar
+#github: https://github.com/nexar9
+#dc: 
 
 # -*- coding: utf-8 -*-
 
